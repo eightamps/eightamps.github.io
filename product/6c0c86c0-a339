@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+      <div class="page-content">
+        <h1 id="page-title">AutonoMe</h1>
+        <h2>P/N: ASI80003-20</h2>
+        <h2>S/N: 6c0c86c0-a339</h2>
+      </div>
+  </body>
+</html>
