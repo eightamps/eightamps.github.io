@@ -1,0 +1,40 @@
+
+body {
+  font-family: 'Source Code Pro', monospace;
+  background-color: #dfdfdf;
+  color: #313131;
+}
+
+.page-content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page-title {
+  font-size: 133px;
+  margin-bottom: 0px;
+  color: #3f4756;
+}
+
+#page-subtitle {
+  font-size: 21px;
+  margin-top: -20px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  color: #636f87;
+}
+
+a:link, a:active, a:visited {
+  color: #4568ac;
+}
+
+a:hover {
+  color: #215dd1;
+}
+
+p {
+  text-align: left;
+  margin: 10px;
+}
+
